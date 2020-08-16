@@ -2370,6 +2370,12 @@ input, select, textarea {
 
 			}
 
+/* Customized */
+				#address-info{
+	   overflow: hidden;
+	       color: red;
+}
+
 /* Table */
 
 	.table-wrapper {

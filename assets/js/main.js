@@ -185,7 +185,7 @@
 })(jQuery);
 
 var overlay;
-
+/*
 function initialize() {
     var myLatLng = new google.maps.LatLng(62.323907, -150.109291);
     var mapOptions = {
@@ -225,4 +225,4 @@ function initialize() {
     //to use it
     var htmlMarker = new HTMLMarker(62.323907, -150.109291);
     htmlMarker.setMap(gmap);
-}
+}*/
